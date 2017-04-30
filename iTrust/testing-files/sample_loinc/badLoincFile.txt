@@ -1,3 +1,3 @@
 This file contains no LOINC data and should fail the LOINC file verification process.
 
-Random comment to test git hook
+Random comment  git hook
